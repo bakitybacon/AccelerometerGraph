@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AccelerometerGraph</string>
+    <string name="record_button">Record</string>
+    <string name="stop_button">Stop</string>
+    <string name="save_button">Save</string>
+    <string name="welcome_message">Press Record to begin gathering data!</string>
 </resources>
